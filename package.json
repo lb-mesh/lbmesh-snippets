@@ -6,7 +6,7 @@
 	"engines": {
 		"vscode": "^1.31.0"
 	},
-	"icon": "https://s3.amazonaws.com/lbmesh/lbmesh-final-128.png",
+	"icon": "images/lbmesh-final-128.png",
 	"publisher": "iamjamilspain",
 	"categories": [
 		"Snippets",
