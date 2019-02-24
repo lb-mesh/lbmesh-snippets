@@ -1,0 +1,49 @@
+{
+    "LBMesh-Admin Express POST Route":{
+        "prefix": "lbmesh:admin-router-path:post",
+        "body": [
+            "\t/**",
+            "\t *  @method POST /dashboard/#path#",
+            "\t */",
+            "\t\tapp.post('/dashboard/#action#', function(req,res,next) {",
+            "",
+            "\t\t\tif (!req.session.token) {",
+            "\t\t\t\t  res.redirect('/login.html?error=ACCESS_DENIED'); ",
+            "\t\t\t} else {",
+            "\t\t\t\t",
+            "\t\t\t\t",
+            "\t\t\t\t",
+            "\t\t\t\t",
+            "\t\t\t\t",
+            "\t\t\t}",
+            "",
+            "\t\t});",
+            "",
+            ""
+        ],
+        "description": "Making Route Path for Routes.js"
+    },
+    "LBMesh-Admin New Routes":{
+        "prefix": "lbmesh:admin-router-page",
+        "body": [
+            "'use strict'",
+            "",
+            "",
+            "module.exports = function(app) {",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "}",
+            "",
+            ""
+        ],
+        "description": "Blank Loopback Route Controller"
+    }
+}
