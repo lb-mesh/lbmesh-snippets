@@ -1,17 +1,30 @@
 {
-	"name": "lb-mesh-snippets",
+	"name": "lbmesh-snippets",
 	"displayName": "LB Mesh Snippets",
 	"description": "Snippets designed to speed up LB Mesh Project Development ",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.31.0"
 	},
+	"icon": "https://s3.amazonaws.com/lbmesh/lbmesh-final-128.png",
+	"publisher": "iamjamilspain",
 	"categories": [
-		"Snippets"
+		"Snippets",
+		"Programming Languages"
+	],
+	"keywords":[
+		"loopback",
+		"cloud native",
+		"lbmesh.io",
+		"kubernetes",
+		"container",
+		"compose",
+		"node.js"
 	],
 	"activationEvents": [
 		"onCommand:extension.lbmeshSnippets"
 	],
+	"repository": "https://github.com/lb-mesh/lbmesh-vscode-snippets.git",
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [

@@ -17,6 +17,7 @@ The easiest way is to start a git issue, and I will attempt to answer ASAP.
 
 **Snippets are found below.**
 
+
 | Snippet→   | Output                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------- |
 |            |                                                                                                         |
@@ -30,3 +31,5 @@ The easiest way is to start a git issue, and I will attempt to answer ASAP.
 All notable changes to the "lbmesh-snippets" extension will be documented in this file
 
 **Enjoy!**
+
+ 
