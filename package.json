@@ -2,7 +2,7 @@
 	"name": "lb-mesh-snippets",
 	"displayName": "LB Mesh Snippets",
 	"description": "Snippets designed to speed up LB Mesh Project Development ",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.31.0"
 	},
