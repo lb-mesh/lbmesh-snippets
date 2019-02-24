@@ -2,7 +2,7 @@
 	"name": "lbmesh-snippets",
 	"displayName": "LB Mesh Snippets",
 	"description": "Snippets designed to speed up LB Mesh Project Development ",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"engines": {
 		"vscode": "^1.31.0"
 	},
@@ -12,7 +12,7 @@
 		"Snippets",
 		"Programming Languages"
 	],
-	"keywords":[
+	"keywords": [
 		"loopback",
 		"cloud native",
 		"lbmesh.io",
