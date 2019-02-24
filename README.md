@@ -16,13 +16,14 @@ The easiest way is to start a git issue, and I will attempt to answer ASAP.
 ## Features
 
 **Snippets are found below.**
+
 | Snippet→   | Output                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------- |
-|       |                                                                                  |
+|            |                                                                                                         |
 
 ## Source
 
-[GitHub](https://github.com/lbmesh/lbmesh-vscode-snippets)
+[GitHub - lbmesh-vscode-snippets](https://github.com/lbmesh/lbmesh-vscode-snippets)
 
 ## Change Log
 
