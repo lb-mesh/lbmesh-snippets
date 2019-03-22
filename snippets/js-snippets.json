@@ -1,6 +1,17 @@
 {
+    "LBMesh-Admin Express AUTH Route": {
+    "prefix": "lbmesh:admin-router-page-auth",
+    "body": [
+        "\t/**",
+        "\t *  @method MIDDLEWARE userAuthRequired",
+        "\t */",
+        " ",
+        ""
+    ],
+    "description": "Making Auth Route Path for Routes.js"
+    },
     "LBMesh-Admin Express POST Route":{
-        "prefix": "lbmesh:admin-router-path:post",
+        "prefix": "lbmesh:admin-router-page-path:post",
         "body": [
             "\t/**",
             "\t *  @method POST /dashboard/#path#",
@@ -22,6 +33,27 @@
             ""
         ],
         "description": "Making Route Path for Routes.js"
+    },
+    "LBMesh-Admin Express GET Route":{
+        "prefix": "lbmesh:admin-router-page-path:get",
+        "body": [
+            "\t/**",
+            "\t *  @method GET /#path#",
+            "\t */",
+            "\t\tapp.post('/#action#',  function(req,res,next) {",
+            "",
+            "\t\t\t\t",
+            "\t\t\t\t",
+            "\t\t\t\t",
+            "\t\t\t\t",
+            "\t\t\t\t",
+            "\t\t\t}",
+            "",
+            "\t\t});",
+            "",
+            ""
+        ],
+        "description": "Making GET Route Path for Routes.js"
     },
     "LBMesh-Admin New Routes":{
         "prefix": "lbmesh:admin-router-page",
